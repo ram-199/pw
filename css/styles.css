@@ -105,7 +105,7 @@ p{
 .pricing-card{
     padding:2% 3%;
 }
-@media (max-width:1025px)  {
+@media (max-width:900px)  {
     #title{
         text-align: center;
     }
